@@ -3,12 +3,14 @@ A custom CNN-RNN model built off Tensorflow using Python.
 
 Features:
 1. Keras API
-2. Combination of MobileNetV2 and Bidirectional LSTM
+2. Combination of CNN : MobileNetV2
+3. RNN: Bidirectional LSTM
 4. Feed Forward Network
 5. Video Frame Generator
 6. Frame Sampling
 7. Data Loader
 8. JSON Label Splitter
+9. Data Visualization
 10. Evaluation Metrics
 
 About the Model
