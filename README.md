@@ -19,3 +19,5 @@ The model was created to detect a sequence of body movements and identify them a
 4. Download all the required python libraries.
 5. Change all the folder paths in the required files.
 6. Run models.py 
+
+Unfortunately the dataset and the labelling scripts cannot be provided as they are our private property.
