@@ -14,12 +14,11 @@ Features:
 10. Evaluation Metrics
 
 About the Model
-The model was created to detect a sequence of body movements and identify them according to the annotated labels.
-1. The body movement data was tracked and recorded using OpenPose and used here. The data format is indicated in the readme.txt in the data folder.
-2. Arrange your data according to the format given.
-3. All the components and libraries used in this project is included in the requirements.txt file.
-4. Download all the required python libraries.
-5. Change all the folder paths in the required files.
-6. Run models.py 
-
-Unfortunately the dataset and the labelling scripts cannot be provided as they are our private property.
+1. The model was created to detect a sequence of body movements from video and identify them according to the annotated labels.
+2. The body movement data was tracked and recorded using OpenPose and used here. The data format is indicated in the readme.txt in the data folder.
+3. Arrange your data according to the format given.
+4. All the components and libraries used in this project is included in the requirements.txt file.
+5. Download all the required python libraries.
+6. Change all the folder paths in the required files.
+7. Run models.py 
+8. Unfortunately the dataset and the labelling scripts cannot be provided as they are our private property.
